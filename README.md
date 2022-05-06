@@ -4,4 +4,3 @@ Welcome to my github page. My name is Jerry and I am a data analytics and machin
 
 ### Connections: 
 
-![Linkedin](images/linkedin_icon.jpg)(https://www.linkedin.com/in/jerry-vasquez/)
